@@ -1,19 +1,3 @@
----
-layout: blog-post.html
-title: Harness the Power of Groundwork Collections
-slug: harness-the-power-of-gw-collections
-date: 2017-07-07
-tags: feature
-summary: Define, collect, store and retrieve all your data with The Groundwork.
-image:
-  src: blog/post-collections-tile.png
-heroImage:
-  src: blog/post-collections-hero.png
-meta:
-  description: Define, collect, store and retrieve all your data with The Groundwork.
-  image: blog/post-collections-social.png
----
-
 ### Our Little Walrus is Ready to Fly.
 After months under wraps, the project known internally and affectionately as "Walrus" is ready for public release as a [major new feature called Groundwork Collections](https://thegroundwork.com/features/collections)!  
 
