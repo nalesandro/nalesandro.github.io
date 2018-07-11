@@ -31,6 +31,7 @@ With Collections, you can define any quiz, poll, petition, feedback form, or wha
   <figcaption>The People view provides a complete picture of engagement</figcaption>
 </figure>
 
+
 Collections also allow you to moderate records for public consumption.  For example if you wanted to collect real-world stories from the community and display them on your website, we'd suggest your site only display stories that have been reviewed and marked "Approved" by someone in your organization.
 <figure>
   <img src="https://i.imgur.com/7dXpS7S.gif" alt="Record moderation"/>
