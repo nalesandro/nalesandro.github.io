@@ -24,8 +24,8 @@ A humble suggestion
  - Then promote the model to new AND existing businesses.  Happy workers, happy businesses, more cohesive society
 
 ### Things to consider
-Compost/trash impact
-Subsidy for bike share
-Rainy days?
+ - Compost/trash impact
+ - Subsidy for bike share
+ - Rainy days?
 
 # Conclusion
